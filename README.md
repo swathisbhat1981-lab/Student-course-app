@@ -1,16 +1,16 @@
-# React + Vite
+# Student & Course Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React app for managing students and courses with full CRUD, using JSON Server as a mock backend.
 
-Currently, two official plugins are available:
+**Technologies:** React (Vite), React Router, Bootstrap, Axios, JSON Server
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Prerequisites:** Node.js 24 LTS, npm
 
-## React Compiler
+**Setup**
+1. `npm install`
+2. Start the mock API: `npm run server` (runs at http://localhost:3001)
+3. In another terminal start the app: `npm run dev` (http://localhost:5176)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**API base URL:** http://localhost:3001 (set in src/api.js)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Limitations:** Mock data only. No authentication, no production database.
