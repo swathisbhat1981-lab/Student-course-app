@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Ravi Kumar",
+      "email": "ravi@bms.com",
+      "courseId": 2
+    },
+    {
+      "id": 3,
+      "name": "Meena Iyer",
+      "email": "meena@bms.com",
+      "courseId": 1
+    },
+    {
+      "name": "Swathi Satish Bhat",
+      "email": "swathisatish.cd25@bmsce.ac.in",
+      "courseId": 1,
+      "id": 4
+    },
+    {
+      "name": "Shraddha H",
+      "email": "shraddhah.cd25@bmsce.ac.in",
+      "courseId": 1,
+      "id": 5
+    },
+    {
+      "name": "Thrisha ",
+      "email": "thrisha.cd25@bmsce.ac.in",
+      "courseId": 2,
+      "id": 6
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Design and Development",
+      "duration": "3 months"
+    },
+    {
+      "id": 2,
+      "title": "UX Design Basics",
+      "duration": "2 months"
+    },
+    {
+      "title": "Excel",
+      "duration": "3 months",
+      "id": 3
+    }
+  ]
+}
