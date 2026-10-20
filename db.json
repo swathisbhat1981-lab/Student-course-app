@@ -3,30 +3,30 @@
     {
       "id": 2,
       "name": "Ravi Kumar",
-      "email": "ravi@bms.com",
+      "email": "ravi@example.com",
       "courseId": 2
     },
     {
       "id": 3,
       "name": "Meena Iyer",
-      "email": "meena@bms.com",
+      "email": "meena@example.com",
       "courseId": 1
     },
     {
       "name": "Swathi Satish Bhat",
-      "email": "swathisatish.cd25@bmsce.ac.in",
+      "email": "swathisatish@example.com",
       "courseId": 1,
       "id": 4
     },
     {
       "name": "Shraddha H",
-      "email": "shraddhah.cd25@bmsce.ac.in",
+      "email": "shraddhah@example.com",
       "courseId": 1,
       "id": 5
     },
     {
       "name": "Thrisha ",
-      "email": "thrisha.cd25@bmsce.ac.in",
+      "email": "thrisha@example.com",
       "courseId": 2,
       "id": 6
     }
