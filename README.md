@@ -1,21 +1,21 @@
-## Student & Course Manager
+*Student & Course Manager*
 
 A React app for managing students and courses with full CRUD (Create, Read, Update, Delete), using JSON Server as a mock backend.
 
-# Features
+## Features
 - Dashboard with navbar and student and course count cards
 - Add, view, edit and delete students
 - Add, view, edit and delete courses
 - Confirmation popup before deleting a record
 - Data saved to `db.json` through a REST API
 
-# Technologies
+## Technologies
 React (Vite), React Router, Bootstrap, Axios, JSON Server
 
-# Prerequisites
+## Prerequisites
 Node.js 24 LTS and npm
 
-# Setup
+## Setup
 1. Clone the repository and go into the folder:
 ```
    git clone https://github.com/swathisbhat1981-lab/student-course-app.git
@@ -34,7 +34,7 @@ Node.js 24 LTS and npm
    npm run dev
 ```
 
-# API Endpoints
+## API Endpoints
 Base URL: `http://localhost:3001` (set in `src/api.js`)
 
 | Method | Endpoint | Action |
@@ -46,7 +46,7 @@ Base URL: `http://localhost:3001` (set in `src/api.js`)
 
 The `/courses` endpoint works the same way.
 
-# Project Structure
+## Project Structure
 ```
 student-course-app/
 ├── public/
@@ -60,5 +60,5 @@ student-course-app/
 
 
 
-# Limitations
+## Limitations
 Mock data only. No authentication, no production database.
