@@ -3,30 +3,30 @@
     {
       "id": 2,
       "name": "Ravi Kumar",
-      "email": "ravi@example.com",
+      "email": "ravi@college.com",
       "courseId": 2
     },
     {
       "id": 3,
       "name": "Meena Iyer",
-      "email": "meena@example.com",
+      "email": "meena@college.com",
       "courseId": 1
     },
     {
       "name": "Swathi Satish Bhat",
-      "email": "swathisatish@example.com",
+      "email": "swathisatish@college.com",
       "courseId": 1,
       "id": 4
     },
     {
       "name": "Shraddha H",
-      "email": "shraddhah@example.com",
+      "email": "shraddhah@college.com",
       "courseId": 1,
       "id": 5
     },
     {
       "name": "Thrisha ",
-      "email": "thrisha@example.com",
+      "email": "thrisha@college.com",
       "courseId": 2,
       "id": 6
     }
@@ -35,7 +35,7 @@
     {
       "id": 1,
       "title": "Web Design and Development",
-      "duration": "3 months"
+      "duration": "6 months"
     },
     {
       "id": 2,
