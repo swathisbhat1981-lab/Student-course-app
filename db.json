@@ -27,7 +27,7 @@
     {
       "name": "Shraddha H",
       "email": "shraddhah@college.com",
-      "courseId": 1,
+      "courseId": 4,
       "id": 5
     },
     {
@@ -64,6 +64,11 @@
       "title": "Excel",
       "duration": "6 months",
       "id": 3
+    },
+    {
+      "title": "Canva Essentials",
+      "duration": "5 months",
+      "id": 4
     }
   ]
 }
