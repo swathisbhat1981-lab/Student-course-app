@@ -1,6 +1,12 @@
 {
   "students": [
     {
+      "id": 1,
+      "name": "Rohan Sharma",
+      "email": "rohan@college.com",
+      "courseId": 3
+    },
+    {
       "id": 2,
       "name": "Ravi Kumar",
       "email": "ravi@college.com",
