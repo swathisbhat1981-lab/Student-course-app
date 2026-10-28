@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Ravi Kumar",
       "email": "ravi@college.com",
-      "courseId": 2
+      "courseId": 5
     },
     {
       "id": 3,
@@ -69,6 +69,11 @@
       "title": "Canva Essentials",
       "duration": "5 months",
       "id": 4
+    },
+    {
+      "title": "Business Management",
+      "duration": "2 months",
+      "id": 5
     }
   ]
 }
