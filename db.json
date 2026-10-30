@@ -22,7 +22,7 @@
       "name": "Swathi Satish Bhat",
       "email": "swathisatish@college.com",
       "courseId": 1,
-      "id": 4
+      "id": 6
     },
     {
       "name": "Shraddha H",
@@ -74,6 +74,11 @@
       "title": "Business Management",
       "duration": "2 months",
       "id": 5
+    },
+    {
+      "title": "SQL Basics",
+      "duration": "1 months",
+      "id": 6
     }
   ]
 }
