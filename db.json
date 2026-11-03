@@ -38,16 +38,17 @@
     },
     {
       "id": 7,
-      "name": "Sumathi Verma",
-      "email": "Sumathi@college.com",
+      "name": "Suma Bhat",
+      "email": "Suma@school.com",
       "courseId": 3
     },
     {
       "id": 8,
-      "name": "Suma Bhat",
-      "email": "Suma@school.com",
+      "name": "Rahul",
+      "email": "rahul@school.com",
       "courseId": 3
     }
+
   ],
   "courses": [
     {
