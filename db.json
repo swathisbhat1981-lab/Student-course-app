@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Ravi Kumar",
       "email": "ravi@college.com",
-      "courseId": 5
+      "courseId": 3
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Swathi Satish Bhat",
       "email": "swathisatish@college.com",
       "courseId": 1,
-      "id": 6
+      "id": 4
     },
     {
       "name": "Shraddha H",
@@ -41,14 +41,7 @@
       "name": "Suma Bhat",
       "email": "Suma@school.com",
       "courseId": 3
-    },
-    {
-      "id": 8,
-      "name": "Rahul",
-      "email": "rahul@school.com",
-      "courseId": 3
     }
-
   ],
   "courses": [
     {
