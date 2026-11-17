@@ -41,6 +41,12 @@
       "name": "Suma Bhat",
       "email": "Suma@school.com",
       "courseId": 3
+    },
+    {
+      "id": 8,
+      "name": "Sanvi",
+      "email": "Sanvi@school.com",
+      "courseId": 7
     }
   ],
   "courses": [
@@ -73,6 +79,11 @@
       "title": "SQL Basics",
       "duration": "1 months",
       "id": 6
+    },
+    {
+      "title": "Git",
+      "duration": "6 months",
+      "id": 7
     }
   ]
 }
