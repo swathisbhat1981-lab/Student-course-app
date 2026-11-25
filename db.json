@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Meena Iyer",
       "email": "meena@college.com",
-      "courseId": 1
+      "courseId": 8
     },
     {
       "name": "Swathi Satish Bhat",
@@ -84,6 +84,12 @@
       "title": "Git",
       "duration": "6 months",
       "id": 7
+    },
+    
+    {
+      "title": "Physical education",
+      "duration": "3 months",
+      "id": 8
     }
   ]
 }
