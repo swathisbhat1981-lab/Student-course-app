@@ -33,3 +33,32 @@ Node.js 24 LTS and npm
 ```
    npm run dev
 ```
+
+## API Endpoints
+Base URL: `http://localhost:3001` (set in `src/api.js`)
+
+| Method | Endpoint | Action |
+|--------|----------|--------|
+| GET | `/students` | List all students |
+| POST | `/students` | Add a student |
+| PUT | `/students/:id` | Update a student |
+| DELETE | `/students/:id` | Delete a student |
+
+The `/courses` endpoint works the same way.
+
+## Project Structure
+```
+student-course-app/
+├── public/
+├── src/
+│   ├── components/   # React components
+│   └── api.js        # API base URL and Axios setup
+├── db.json           # Mock database
+├── package.json
+└── vite.config.js
+```
+
+
+
+## Limitations
+Mock data only. No authentication, no production database.
